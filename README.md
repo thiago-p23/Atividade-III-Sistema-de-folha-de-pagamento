@@ -1,7 +1,5 @@
 # Atividade-III-Sistema-de-folha-de-pagamento
 
-# Sistema de Folha de Pagamento
-
 **TechSolutions**
 
 ## 1. Descrição do Projeto
